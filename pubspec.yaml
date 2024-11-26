@@ -88,3 +88,10 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+
+
+  #aqui agrege la carpeta para que dea detectada y utilizar imagenes en esta carpeta
+  assets:
+    - assets/images/
+
+  
